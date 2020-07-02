@@ -1,0 +1,27 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: grey;
+  width: 6%;
+}
+
+h1, h3, a {
+  color: #66BFBF;
+}
+
+a:hover {
+  color: #00909E;
+}
+
+.colorblackdecoratornone {
+  color: black;
+  text-decoration: none;
+  }
+
+.textdecoratornone {
+  text-decoration: none;
+}
